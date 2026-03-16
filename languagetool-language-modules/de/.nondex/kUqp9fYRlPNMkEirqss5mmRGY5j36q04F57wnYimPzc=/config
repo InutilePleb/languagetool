@@ -1,0 +1,11 @@
+nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1098954
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=C:\Users\micha\Documents\GitHub\languagetool\languagetool-language-modules\de\.nondex
+nondexJarDir=C:\Users\micha\Documents\GitHub\languagetool\languagetool-language-modules\de\.nondex
+nondexExecid=kUqp9fYRlPNMkEirqss5mmRGY5j36q04F57wnYimPzc=
+nondexLogging=CONFIG
+test=
